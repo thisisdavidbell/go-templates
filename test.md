@@ -11,4 +11,10 @@ This is a [hover text](## "your hover text") example.
 
 <div title="This is a mouseover text!">Hover this text to see the result.</div>
 
-Some text here then: <div title="This check does stuff and is awesome!">Some Upstream Check :information_source:</div> 
+div example: Some text here then: <div title="This check does stuff and is awesome!">Some Upstream Check :information_source:</div> 
+
+More basic text here.
+
+span example: Some text here then: <span title="This check does stuff and is awesome!">Some Upstream Check :information_source:</span> 
+
+Text after.

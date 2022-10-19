@@ -73,10 +73,13 @@ func main() {
 
 	// Try new actions from:
 	/* Things to cover before finishing:
-	- if
-	- gf
+	- [x] if
+	- [ ] gt
 	- len
-	- range
+	- [x] range
+
+	Other things to try:
+	- [ ] applying functions
 	*/
 
 	fmt.Println("\n========== Comments example ==========\n")
