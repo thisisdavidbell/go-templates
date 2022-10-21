@@ -19,4 +19,4 @@ span example: Some text here then: <span title="This check does stuff and is awe
 
 Text after.
 
-span example: with new lines and formatting : <span title="**Description:**This check does stuff and is awesome! NewLine slashn\n then newline br <br> new line <p> <b>bold from html</>NewLine slashn\n then newline br <br> new line <p>">Some Upstream Check :information_source:</span> 
+span example: with new lines and formatting : <span title="**Description:**This check does stuff and is awesome! NewLine slashn\n then newline br <br> new line <p> <b>bold from html</>NewLine slashn\n then newline br <br> new line <p> New line with amphash10 &#10; more text after">Some Upstream Check :information_source:</span> 
